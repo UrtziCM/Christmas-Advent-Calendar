@@ -1,0 +1,7 @@
+name: AdventCalendar
+version: '${project.version}'
+main: me.yxini.adventcalendar.AdventCalendar
+api-version: '1.20'
+commands:
+  advent-calendar:
+    description: Open the advent calendar!
